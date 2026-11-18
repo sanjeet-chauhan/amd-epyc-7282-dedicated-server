@@ -1,0 +1,1 @@
+# amd-epyc-7282-dedicated-server
